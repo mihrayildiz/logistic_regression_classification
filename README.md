@@ -9,3 +9,5 @@ Logistic Regression Claasification temeli sinir ağlarına dayanan ileri ve geri
 
 Bu çalışmada iyi huylu ve kötü huylu kanser hücresi bilgilerini içeren datasetimizde Artifical Neural Network temelini oluşturan Logistic Regression Classification algoritması uygulanmıştır. 
 Kötü huylu ve huylu hücreler algoritma ile incelenmiş ve accuracy değeri elde edilmiştir.
+
+
